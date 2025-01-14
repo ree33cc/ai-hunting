@@ -12,6 +12,6 @@ the api and fetch/ filter stuff should work the rest is reletivley simple input 
 
 error handling should work.
 
-comments are gpt not me
+code comments are gpt not me
 
 R
