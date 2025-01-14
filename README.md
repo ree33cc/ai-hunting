@@ -6,7 +6,7 @@ It doesnt take user input for the filters. That could be added, think it just ad
 
 Main function not working, i have limited experience with async not looked at it yet. could use dif method of calling prob.
 
-The api and fetch stuff should work the rest is reletivley simple input handling and display.
+The api and fetch/ filter stuff should work the rest is reletivley simple input handling and display.
 
 Error handling should work.
 
