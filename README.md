@@ -1,15 +1,17 @@
-Code is from gpt prompt
+14/01/2025 v1.0.0
 
-Make sure u pip intsall the dependancies
+code is from gpt prompt
 
-It doesnt take user input for the filters. That could be added, think it just adds them as a static variable so rn it may be searching for the ticker "ticker"
+make sure u pip intsall the dependancies
 
-Miain function not working, i have limited experience with async not looked at it yet. Could use dif method of calling prob.
+it doesnt take user input for the filters. that could be added, think it just adds them as a static variable so rn it may be searching for the ticker "ticker"
 
-The api and fetch/ filter stuff should work the rest is reletivley simple input handling and display.
+main function not working, i have limited experience with async not looked at it yet. could use dif method of calling prob.
 
-Error handling should work.
+the api and fetch/ filter stuff should work the rest is reletivley simple input handling and display.
 
-Comments are gpt not me
+error handling should work.
+
+comments are gpt not me
 
 R
