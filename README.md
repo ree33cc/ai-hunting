@@ -1,4 +1,5 @@
 code is from gpt prompt
+
 make sure u pip intsall the dependancies
 
 It doesnt take user input for the filters. That could be added, think it just adds them as a variable in the code so rn it may be searching for the ticker "ticker"
